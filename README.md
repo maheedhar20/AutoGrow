@@ -4,4 +4,4 @@ AutoGrow is an IoT/ML based system which can revolutionize Agriculture sector by
 
 I have been training models with various parameters and fine-tuning them based on the evaluation of each model's performance. 
 
-Here, I have uploaded a few of those files.  Autogrow3.ipynb is the latest model trained.
+Here, I have uploaded a few of those files.  Autogrow3(1).ipynb is the latest model trained.
